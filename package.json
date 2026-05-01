@@ -1,7 +1,11 @@
 {
-  "name": "vercel-xhttp-relay",
-  "version": "1.1.0",
-  "description": "Serverless XHTTP relay for Xray/V2Ray on Vercel (Node.js runtime, 128MB memory)",
+  "name": "smart-calc-app",
+  "version": "2.0.1",
+  "description": "A lightweight scientific calculator web application with serverless backend",
   "private": true,
-  "license": "MIT"
+  "license": "MIT",
+  "keywords": ["calculator", "math", "serverless"],
+  "engines": {
+    "node": ">=18"
+  }
 }
