@@ -1,11 +1,9 @@
 {
   "name": "smart-calc-app",
-  "version": "2.0.1",
   "description": "A lightweight scientific calculator web application with serverless backend",
+  "version": "2.0.1",
   "private": true,
-  "license": "MIT",
-  "keywords": ["calculator", "math", "serverless"],
   "engines": {
-    "node": ">=18"
+    "node": "18.x"
   }
 }
